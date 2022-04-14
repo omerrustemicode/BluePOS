@@ -1,0 +1,36 @@
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\BluePOSnew.csprojAssemblyReference.cache
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.admin.panel.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.admin.produktet.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.admin.punetoret.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.admin.shitjet.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.admin.tavolinat.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.database.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Form1.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.menu.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.porosia.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.tavolina.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.Forms.porosia.sq.resources
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\BluePOSnew.csproj.GenerateResource.cache
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\BluePOSnew.csproj.CoreCompileInputs.cache
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\sq\TestProject.resources.dll
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.exe
+C:\Users\omer_\OneDrive\Desktop\All Project 2021\Other\Fakultet\TestProject-master\TestProject\obj\Debug\TestProject.pdb
+D:\BLuePOS\TestProject\obj\Debug\BluePOSnew.csprojAssemblyReference.cache
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.admin.panel.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.admin.produktet.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.admin.punetoret.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.admin.shitjet.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.admin.tavolinat.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.database.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Form1.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.menu.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.porosia.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.tavolina.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Properties.Resources.resources
+D:\BLuePOS\TestProject\obj\Debug\TestProject.Forms.porosia.sq.resources
+D:\BLuePOS\TestProject\obj\Debug\BluePOSnew.csproj.GenerateResource.cache
+D:\BLuePOS\TestProject\obj\Debug\BluePOSnew.csproj.CoreCompileInputs.cache
+D:\BLuePOS\TestProject\obj\Debug\sq\TestProject.resources.dll
+D:\BLuePOS\TestProject\obj\Debug\TestProject.exe
+D:\BLuePOS\TestProject\obj\Debug\TestProject.pdb
